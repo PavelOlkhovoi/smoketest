@@ -1,0 +1,23 @@
+Link http://www.dews-online.org/ is valid.
+Link http://www.dews-online.org/home/-/document_library_display/Pgm2/view/10920/102?_110_INSTANCE_Pgm2_redirect=http%3A%2F%2Fwww.dews-online.org%2Fhome%3Fp_p_id%3D110_INSTANCE_Pgm2%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26p_p_col_id%3Dcolumn-2%26p_p_col_pos%3D1%26p_p_col_count%3D2 leads to a 404 page.
+Link http://www.crismaproject.eu/ leads to a 404 page.
+Link http://www.crismaproject.eu/project.htm leads to a 404 page.
+Link http://www.crismaproject.eu/partners.htm leads to a 404 page.
+Link http://www.wuppertal.de/ is valid.
+Link http://www.lung.mv-regierung.de/ is valid.
+Link http://www.wrrl-mv.de/start.htm leads to a 404 page.
+Link http://www.wuppertal.de/ is valid.
+Link http://www.sudplan.eu/ is valid.
+Link http://www.sudplan.eu/polopoly_fs/1.12560!SUDPLANsep-10.pdf is valid.
+Link http://www.sudplan.eu/polopoly_fs/1.20210!SUDPLAN_Newsletter2.pdf is valid.
+Link http://www.wuppertal.de/ is valid.
+Link http://www.fis-wasser-mv.de/nutzerhandbuch/index.php/Hauptseite leads to a 404 page.
+Link http://www.lung.mv-regierung.de/ is valid.
+Link http://www.wrrl-mv.de/start.htm leads to a 404 page.
+Link http://www.bom.gov.au/water/about/wip/awris.shtml is valid.
+Link http://www.bom.gov.au/water/about/publications/document/InfoSheet_3.pdf is valid.
+Link http://www.bom.gov.au/ is valid.
+Link http://www.fis-wasser-mv.de/nutzerhandbuch/index.php/FGSK leads to a 404 page.
+Link http://www.lung.mv-regierung.de/ is valid.
+Link http://www.wrrl-mv.de/start.htm leads to a 404 page.
+Link http://www.wuppertal.de/ is valid.
